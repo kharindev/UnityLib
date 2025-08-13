@@ -1,0 +1,6 @@
+{
+  "name": "com.kharindev.unitylibrary",
+  "version": "1.0.0",
+  "displayName": "Unity Library",
+  "unity": "2022.3"
+}
